@@ -1,0 +1,58 @@
+Copyright 1986-2018 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2018.3 (win64) Build 2405991 Thu Dec  6 23:38:27 MST 2018
+| Date         : Sun May 14 17:30:00 2023
+| Host         : DESKTOP-T4EQ39C running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z010clg400-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'zynq_PS_PL_REG_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of zynq_PS_PL_REG_0_0 (xilinx.com:user:PS_PL_REG:1.0) from (Rev. 4) to (Rev. 5)
+
+
+
+
+
+
+Copyright 1986-2018 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2018.3 (win64) Build 2405991 Thu Dec  6 23:38:27 MST 2018
+| Date         : Sun May 14 17:13:54 2023
+| Host         : DESKTOP-T4EQ39C running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z010clg400-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'zynq_PS_PL_REG_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of zynq_PS_PL_REG_0_0 (xilinx.com:user:PS_PL_REG:1.0) from (Rev. 3) to (Rev. 4)
+
+
+
+
+
+
+Copyright 1986-2018 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2018.3 (win64) Build 2405991 Thu Dec  6 23:38:27 MST 2018
+| Date         : Sun May 14 16:47:05 2023
+| Host         : DESKTOP-T4EQ39C running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z010clg400-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'zynq_PS_PL_REG_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of zynq_PS_PL_REG_0_0 (xilinx.com:user:PS_PL_REG:1.0) from (Rev. 2) to (Rev. 3)
+

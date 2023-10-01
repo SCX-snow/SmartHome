@@ -1,0 +1,7 @@
+//arch = zynq; split = false; format = BIN
+the_ROM_image:
+{
+	[bootloader]D:\workspace\xilinx\ebaz\ebaz.sdk\fbsl\Debug\fbsl.elf
+	D:\workspace\xilinx\ebaz\ebaz.runs\impl_1\zynq_wrapper.bit
+	D:\workspace\xilinx\ebaz\ebaz.sdk\ebaz\Debug\ebaz.elf
+}

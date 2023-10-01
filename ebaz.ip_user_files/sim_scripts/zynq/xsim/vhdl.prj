@@ -1,0 +1,4 @@
+vhdl xil_defaultlib  \
+"../../../bd/zynq/ip/zynq_rst_ps7_0_50M_1/sim/zynq_rst_ps7_0_50M_1.vhd" \
+
+nosort

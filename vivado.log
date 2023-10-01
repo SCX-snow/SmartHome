@@ -1,0 +1,26 @@
+#-----------------------------------------------------------
+# Vivado v2018.3 (64-bit)
+# SW Build 2405991 on Thu Dec  6 23:38:27 MST 2018
+# IP Build 2404404 on Fri Dec  7 01:43:56 MST 2018
+# Start of session at: Sun Oct  1 15:31:25 2023
+# Process ID: 8204
+# Current directory: D:/workspace/xilinx/ebaz
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent2468 D:\workspace\xilinx\ebaz\ebaz.xpr
+# Log file: D:/workspace/xilinx/ebaz/vivado.log
+# Journal file: D:/workspace/xilinx/ebaz\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project D:/workspace/xilinx/ebaz/ebaz.xpr
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1700] Loaded user IP repository 'd:/workspace/xilinx/ip_repo/PS_PL_REG_1.0'.
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'D:/Program/Xilinx/Vivado/2018.3/data/ip'.
+open_project: Time (s): cpu = 00:00:13 ; elapsed = 00:00:07 . Memory (MB): peak = 814.586 ; gain = 164.754
+launch_sdk -workspace D:/workspace/xilinx/ebaz/ebaz.sdk -hwspec D:/workspace/xilinx/ebaz/ebaz.sdk/zynq_wrapper.hdf
+INFO: [Vivado 12-393] Launching SDK...
+INFO: [Vivado 12-417] Running xsdk -workspace D:/workspace/xilinx/ebaz/ebaz.sdk -hwspec D:/workspace/xilinx/ebaz/ebaz.sdk/zynq_wrapper.hdf
+INFO: [Vivado 12-3157] SDK launch initiated. Please check console for any further messages.
+update_compile_order -fileset sources_1
+exit
+INFO: [Common 17-206] Exiting Vivado at Sun Oct  1 15:32:25 2023...

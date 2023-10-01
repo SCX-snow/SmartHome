@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item value="zynq_wrapper_hw_platform_0" key="programflash.hwplatform"/>
+	<item value="" key="zynq_wrapper_hw_platform_0-offSet"/>
+	<item value="Auto Detect" key="zynq_wrapper_hw_platform_0-device"/>
+	<item value="D:\workspace\xilinx\ebaz\ebaz.sdk\BOOT.bin" key="zynq_wrapper_hw_platform_0-imgFile"/>
+	<item value="nand-x8" key="zynq_wrapper_hw_platform_0-flashType"/>
+	<item value="false" key="zynq_wrapper_hw_platform_0-blankCheck"/>
+	<item value="false" key="zynq_wrapper_hw_platform_0-verifyFlash"/>
+	<item value="D:\workspace\xilinx\ebaz\ebaz.sdk\fbsl\Debug\fbsl.elf" key="zynq_wrapper_hw_platform_0-fsblFile"/>
+	<item value="Local" key="zynq_wrapper_hw_platform_0-target"/>
+</section>

@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<Runs Version="1" Minor="0">
+	<Run Id="zynq_processing_system7_0_0_synth_1" LaunchDir="D:/workspace/xilinx/ebaz/ebaz.runs/zynq_processing_system7_0_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="zynq_BEEP_MODULE_0_1_synth_1" LaunchDir="D:/workspace/xilinx/ebaz/ebaz.runs/zynq_BEEP_MODULE_0_1_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="zynq_PS_PL_REG_0_0_synth_1" LaunchDir="D:/workspace/xilinx/ebaz/ebaz.runs/zynq_PS_PL_REG_0_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="zynq_rst_ps7_0_50M_1_synth_1" LaunchDir="D:/workspace/xilinx/ebaz/ebaz.runs/zynq_rst_ps7_0_50M_1_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="zynq_auto_pc_0_synth_1" LaunchDir="D:/workspace/xilinx/ebaz/ebaz.runs/zynq_auto_pc_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="synth_1" LaunchDir="D:/workspace/xilinx/ebaz/ebaz.runs/synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado">
+		<Parent Id="zynq_processing_system7_0_0_synth_1"/>
+		<Parent Id="zynq_BEEP_MODULE_0_1_synth_1"/>
+		<Parent Id="zynq_PS_PL_REG_0_0_synth_1"/>
+		<Parent Id="zynq_rst_ps7_0_50M_1_synth_1"/>
+		<Parent Id="zynq_auto_pc_0_synth_1"/>
+	</Run>
+	<Parameters>
+		<Parameter Name="runs.monitorLSFJobs" Val="true" Type="bool"/>
+	</Parameters>
+</Runs>
+
